@@ -1,0 +1,9 @@
+{
+  "Food & Dining": ["Groceries", "Restaurants", "Coffee/Tea", "Snacks", "Delivery"],
+  "Transportation": ["Public Transit", "Fuel", "Taxi/Uber", "Maintenance", "Flights"],
+  "Housing & Utilities": ["Rent", "Electricity", "Water", "Internet", "Supplies"],
+  "Shopping": ["Clothing", "Electronics", "Personal Care", "Gifts"],
+  "Entertainment": ["Movies", "Games", "Events", "Subscriptions"],
+  "Health & Wellness": ["Medical", "Pharmacy", "Fitness", "Therapy"],
+  "Miscellaneous": ["Charity", "Fines", "Other"]
+}
